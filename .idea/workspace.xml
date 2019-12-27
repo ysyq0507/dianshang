@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1c27444-d16c-4f45-bba7-382b2949f0ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/v0z6xp_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/v0z6xp_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_miemiedev_mybatis_paginator_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_servlet_api_7_0_64.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_6_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hashids_hashids_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/v0z6xp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mmall.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alipay/demo/trade/DemoHbRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alipay/demo/trade/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/common/Const.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/common/ResponseCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/common/ServerResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/common/TokenCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/controller/backend/CategoryManageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/controller/backend/OrderManageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/controller/backend/ProductManageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/controller/backend/UserManageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/controller/portal/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/controller/portal/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/controller/portal/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/controller/portal/ShippingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/controller/portal/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/dao/CartMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/dao/CategoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/dao/OrderItemMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/dao/OrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/dao/PayInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/dao/ProductMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/dao/ShippingMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/dao/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/pojo/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/pojo/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/pojo/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/pojo/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/pojo/PayInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/pojo/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/pojo/Shipping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/ICartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/ICategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/IFileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/IOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/IShippingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/CartServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/FileServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/ShippingServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/util/BigDecimalUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/util/DateTimeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/util/FTPUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/util/MD5Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/util/PropertiesUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/vo/CartProductVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/vo/CartVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/vo/OrderItemVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/vo/OrderProductVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/vo/OrderVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/vo/ProductDetailVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/vo/ProductListVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/vo/ShippingVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/component/file-uploader/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/component/nav-side/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/component/nav-top/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/component/page-title/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/component/pagination/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/component/pagination/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/component/rich-editor/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/component/rich-editor/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/page/blank/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/page/error/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/page/home/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/page/home/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/page/layout/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/page/layout/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/page/login/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/page/login/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/page/order/detail.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/page/order/detail.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/page/order/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/page/product/category/add.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/page/product/category/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/page/product/category/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/page/product/index/detail.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/page/product/index/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/page/product/index/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/page/product/index/save.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/page/product/index/save.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/page/user/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/service/order.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/service/product.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/service/user.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/src/util/mm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/admin/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-datasource.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/datasource.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/CartMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/CategoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/OrderItemMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/OrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/PayInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/ProductMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/ShippingMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/banner/banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/banner/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/banner/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/banner/banner4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/banner/banner5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor1-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor1-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor1-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor1-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor1-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor2-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor2-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor2-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor2-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor2-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor3-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor3-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor3-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor3-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor3-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor4-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor4-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor4-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor4-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor4-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor5-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor5-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor5-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor5-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/floor/floor5-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/image/icon/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/cart/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/cart/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/cart/index.string" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/common/footer/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/common/header/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/common/header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/common/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/common/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/common/nav-side/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/common/nav-side/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/common/nav-side/index.string" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/common/nav-simple/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/common/nav-simple/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/common/nav/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/common/nav/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/detail/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/detail/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/detail/index.string" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/index/banner.string" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/index/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/index/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/list/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/list/index.string" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/result/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/result/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/user-center-update/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/user-center-update/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/user-center-update/index.string" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/user-center/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/user-center/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/user-center/index.string" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/user-login/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/user-login/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/user-pass-reset/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/user-pass-reset/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/user-pass-update/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/user-pass-update/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/user-register/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/page/user-register/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/service/cart-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/service/product-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/service/user-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/util/mm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/util/pagination/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/util/pagination/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/util/pagination/index.string" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/util/slider/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/util/slider/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/util/slider/unslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/view/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/view/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/view/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/view/layout/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/view/layout/head-common.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/view/layout/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/view/layout/nav-side.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/view/layout/nav-simple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/view/layout/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/view/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/view/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/view/user-center-update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/view/user-center.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/view/user-login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/view/user-pass-reset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/view/user-pass-update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/src/view/user-register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zfbinfo.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/tools/mysql-connector-java-5.1.6-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/alipay-sdk-java20161213173952-source.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/alipay-sdk-java20161213173952.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/alipay-trade-sdk-20161215-source.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/alipay-trade-sdk-20161215.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mmall/dao/test/CategoryDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mmall/dao/test/DaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mmall/service/test/ProductServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mmall/service/test/ShippingServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mmall/test/Base64GroupTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mmall/test/BigDecimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mmall/test/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/alipay/demo/trade/DemoHbRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/alipay/demo/trade/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/Const$AlipayCallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/Const$Cart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/Const$OrderStatusEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/Const$PayPlatformEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/Const$PaymentTypeEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/Const$ProductListOrderBy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/Const$ProductStatusEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/Const$Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/Const.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/ResponseCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/ServerResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/TokenCache$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/TokenCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/controller/backend/CategoryManageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/controller/backend/OrderManageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/controller/backend/ProductManageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/controller/backend/UserManageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/controller/portal/CartController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/controller/portal/OrderController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/controller/portal/ProductController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/controller/portal/ShippingController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/controller/portal/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/dao/CartMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/dao/CategoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/dao/OrderItemMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/dao/OrderMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/dao/PayInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/dao/ProductMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/dao/ShippingMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/dao/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/pojo/Cart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/pojo/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/pojo/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/pojo/OrderItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/pojo/PayInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/pojo/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/pojo/Shipping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/ICartService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/ICategoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/IFileService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/IOrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/IProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/IShippingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/IUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/impl/CartServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/impl/CategoryServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/impl/FileServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/impl/OrderServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/impl/ProductServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/impl/ShippingServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/util/BigDecimalUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/util/DateTimeUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/util/FTPUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/util/MD5Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/util/PropertiesUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/vo/CartProductVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/vo/CartVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/vo/OrderItemVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/vo/OrderProductVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/vo/OrderVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/vo/ProductDetailVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/vo/ProductListVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/vo/ShippingVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mmall/dao/test/CategoryDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mmall/dao/test/DaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mmall/service/test/ProductServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mmall/service/test/ShippingServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mmall/test/Base64GroupTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mmall/test/BigDecimalTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mmall/test/TestBase.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VTmkr1ibFgorRtAkQ9k3U2fQJ9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1c27444-d16c-4f45-bba7-382b2949f0ce" name="Default Changelist" comment="" />
+      <created>1577285604476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577285604476</updated>
+      <workItem from="1577285660452" duration="1175000" />
+      <workItem from="1577318531441" duration="2669000" />
+      <workItem from="1577366500674" duration="1158000" />
+      <workItem from="1577448235195" duration="803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1577448954599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577448954599" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1577448852827">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577448852827" />
+    <state x="556" y="254" width="277" height="219" key="Github.ShareDialog" timestamp="1577448799777">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="556" y="254" width="277" height="219" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1577448799777" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1577448372303">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577448372303" />
+    <state x="339" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1577448254555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577448254555" />
+  </component>
+</project>

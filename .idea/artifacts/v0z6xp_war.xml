@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="v0z6xp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>v0z6xp</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="mmall.war">
+      <element id="artifact" artifact-name="v0z6xp:war exploded" />
+    </root>
+  </artifact>
+</component>
